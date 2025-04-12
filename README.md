@@ -97,3 +97,8 @@ weather-dashboard/
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/b1ab48d0-42bb-48e2-b706-795a133a9b46)   ![image](https://github.com/user-attachments/assets/5d57e092-f821-4e3a-807a-f00e9eba4c81)
+![image](https://github.com/user-attachments/assets/d57142ea-e864-44b1-b779-f49fdc5fdc3c)   ![image](https://github.com/user-attachments/assets/f240a060-a991-4759-9054-75edfb9f63bf)
+
+
+
