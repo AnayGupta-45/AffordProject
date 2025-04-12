@@ -92,21 +92,3 @@ weather-dashboard/
    npm start
    ```
    App runs on `http://localhost:3000`
-
-## API Endpoints
-
-**Backend:**
-- `GET /weather?city={cityName}`
-  - Returns:
-    ```json
-    {
-      "temperature": 22.5,
-      "condition": "Clouds",
-      "description": "scattered clouds",
-      "icon": "03d",
-      "humidity": 65,
-      "windSpeed": 3.6,
-      "city": "London",
-      "country": "GB"
-    }
-    ```
