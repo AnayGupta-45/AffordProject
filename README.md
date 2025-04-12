@@ -1,6 +1,7 @@
 # Real-Time Weather Dashboard
 
-![Weather Dashboard Screenshot]
+![image](https://github.com/user-attachments/assets/53dfcb45-ae4d-4e7b-b7da-3b1be2eae8e4)
+
 
 A MERN stack application built for the Afford Medical coding contest that displays real-time weather data for any city worldwide.
 
